@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+body{
+	margin:0;
+	padding:20px;
+}
+
+.card{
+	width:200px;
+	height:auto;
+	background-color:ghostwhite;
+	display:relative;
+	justify-content:center;
+	align-items:center;
+	padding:20px;
+	text-align:center;
+}
+img{
+	width:200px;
+	height:auto;
+	object-fit:cover;
+}
+p{
+	margin-top:-20px;
+}
+button{
+	color:white;
+	padding:10px;
+	border-radius:10px;
+	background-color:orangered;
+}
